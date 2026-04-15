@@ -1,0 +1,404 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - link "Marqeta Logo" [ref=e5] [cursor=pointer]:
+        - /url: https://www.marqeta.com/company/careers
+        - img "Marqeta Logo" [ref=e6]
+      - generic [ref=e7]:
+        - link "Back to jobs" [ref=e8] [cursor=pointer]:
+          - /url: https://job-boards.greenhouse.io/marqeta
+          - img [ref=e9]
+          - text: Back to jobs
+        - generic [ref=e12]:
+          - generic [ref=e13]:
+            - heading "Production Support Engineer II" [level=1] [ref=e14]
+            - generic [ref=e15]:
+              - img [ref=e16]
+              - generic [ref=e18]: Remote, USA
+          - button "Apply" [ref=e19] [cursor=pointer]
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - paragraph [ref=e22]:
+              - text: As Marqeta’s
+              - strong [ref=e23]: Production Support Engineer II
+              - text: ", you will play a pivotal role in our commitment to customer satisfaction and the seamless operation of our products and services. You will serve as the first line of contact for our customers, adeptly handling and resolving complex technical issues while translating technical jargon into user-friendly language. Your broad knowledge base across various technologies will be instrumental in addressing a wide range of problems. In addition, you will collaborate with our Engineering teams to manage software updates and bug fixes."
+            - paragraph [ref=e24]: Your role will also involve becoming an expert in all areas of Marqeta's products and services and ensuring that our customers can fully utilize our offerings. As a customer advocate, you will ensure that our customers' needs and concerns are heard and addressed in our product development and service delivery processes. At Marqeta, we value the essential role our Production Support Engineers play in our service delivery chain and look forward to welcoming you to our team.
+            - paragraph [ref=e25]:
+              - text: We work
+              - link "Flexible First" [ref=e26] [cursor=pointer]:
+                - /url: https://www.marqeta.com/blog/2022/05/10/flexible-first
+              - text: . This role can be performed remotely in the United States,
+              - strong [ref=e27]: only in Pacific Time-zone.
+            - paragraph [ref=e28]:
+              - strong [ref=e29]: The Impact You’ll Have
+            - list [ref=e30]:
+              - listitem [ref=e31]: Become a Marqeta product expert
+              - listitem [ref=e32]: Provide high-quality support, and take ownership in responding to inquiries, issues and escalation inquiries through tickets, emails, and other channels
+              - listitem [ref=e33]: Perform problem-solving, diagnosing, root cause analysis, and generate corrective action plans for issues
+              - listitem [ref=e34]: Work cross-functionally to resolve issues and provide customer care
+              - listitem [ref=e35]: Provide on-call support for rotations and escalations
+              - listitem [ref=e36]: Assist in monitoring production transaction volume, functionality, capacity, and performance
+              - listitem [ref=e37]: Be proactive in monitoring, optimizing issuer resolution, and implementing corrective action planning
+              - listitem [ref=e38]: Interact with Product, Engineering, and Technical Operational teams to provide feedback on production support related issues and improvements
+              - listitem [ref=e39]: Document process, product, and industry learnings relentlessly to identify pain points and trends to help the team and organization grow and improve
+            - paragraph [ref=e40]:
+              - strong [ref=e41]: Who You Are
+            - list [ref=e42]:
+              - listitem [ref=e43]: 3+ years of experience in Technical Support, Production Support, or IT Support for B2B customers
+              - listitem [ref=e44]: Ability to work in a customer-facing role, with strong written and verbal communication skills, with the ability to listen, show empathy, and also be able to converse with both internal and external technical and non-technical stakeholders
+              - listitem [ref=e45]: Committed, flexible through on-call rotations, and demonstrated ability to maintain high levels of productivity with minimal supervision
+              - listitem [ref=e46]: Experience with ticketing systems (such as Salesforce, Jira, Confluence, etc)
+              - listitem [ref=e47]: "Good understanding of API technologies and troubleshooting (i.e.: you know what cURL does, know HTTP response codes, etc.)"
+              - listitem [ref=e48]: Comfortable working within a Linux environment
+              - listitem [ref=e49]: Intermediate SQL knowledge (relational database experience preferred)
+              - listitem [ref=e50]: Scriptwriting - Python, Ruby, Shell, etc
+              - listitem [ref=e51]: Experience with logging and monitoring tools such as Kibana, Splunk, AppDynamics, Sumo Logic, Grafana, Datadog, and New Relic
+            - paragraph [ref=e52]:
+              - strong [ref=e53]: Nice-To-Haves
+            - list [ref=e54]:
+              - listitem [ref=e55]: Experience in payments and/or accounting systems.
+              - listitem [ref=e56]: Experience working at a high-growth company.
+            - paragraph [ref=e57]:
+              - strong [ref=e58]: Your Manager
+            - list [ref=e59]:
+              - listitem [ref=e60]: David Foo
+            - paragraph [ref=e61]:
+              - strong [ref=e62]: Recruiter For This Role
+            - list [ref=e63]:
+              - listitem [ref=e64]:
+                - link "Prashant S" [ref=e65] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/in/prashant-s-948aa8/
+            - paragraph [ref=e66]:
+              - strong [ref=e67]: Typical Process
+            - list [ref=e68]:
+              - listitem [ref=e69]: Application Submission
+              - listitem [ref=e70]: Recruiter phone call
+              - listitem [ref=e71]: Hiring manager video call
+              - listitem [ref=e72]: Virtual “Onsite” consisting of 4-5, 45 min calls
+              - listitem [ref=e73]: Offer!
+            - paragraph [ref=e74]:
+              - strong [ref=e75]: Compensation and Benefits
+            - paragraph [ref=e76]: "Marqeta is a Flex First company which allows you to choose your best working environment, whether that be from home or at a company office. To support Flex First, we calibrate pay to a competitive value according to working location. Compensation is aligned according to three tiers within the United States:"
+            - list [ref=e77]:
+              - listitem [ref=e78]:
+                - strong [ref=e79]: National
+                - text: ": A baseline tier that applies to most of the geographic territory of the United States."
+              - listitem [ref=e80]:
+                - strong [ref=e81]: Premium
+                - text: ": Slightly elevated from the National tier, and oriented toward a narrower set of higher cost-of-living areas, such as Los Angeles CA and Seattle WA"
+              - listitem [ref=e82]:
+                - strong [ref=e83]: Premium Plus
+                - text: ": A tier for the most expensive working areas, like the San Francisco Bay area and New York City."
+            - paragraph [ref=e84]:
+              - text: Visit
+              - link "this page" [ref=e85] [cursor=pointer]:
+                - /url: https://www.marqeta.com/company/salaryzones
+              - text: or consult with a Recruiter to determine which tier would be applicable to you.
+            - paragraph [ref=e86]:
+              - text: When determining salaries, we consider several factors including, but not limited to, skills, prior experience, and work location. The new-hire
+              - strong [ref=e87]: base salary
+              - text: "range in USD for this position is:"
+            - list [ref=e88]:
+              - listitem [ref=e89]: "National: 72,000 - 90,000"
+              - listitem [ref=e90]: "Premium: 77,900 - 97,400"
+              - listitem [ref=e91]: "Premium Plus: 84,700 - 105,900"
+            - paragraph [ref=e92]: We also believe in recognizing the contributions of our people. That's why we award annual bonuses to eligible employees, rewarding both individual performance and the success of the entire company.
+            - paragraph [ref=e93]: Along with monetary compensation, Marqeta offers
+            - list [ref=e94]:
+              - listitem [ref=e95]: Multiple health insurance options
+              - listitem [ref=e96]: Flexible time off – take what you need
+              - listitem [ref=e97]: Retirement savings program with company contribution and after tax contributions
+              - listitem [ref=e98]: Equity in a publicly-traded company and an Employee Stock Purchase Program
+              - listitem [ref=e99]: Family-forming benefits, fertility support, and up to 20 weeks of Parental Leave
+              - listitem [ref=e100]: Free therapy sessions, financial and professional coaching, and legal advice
+              - listitem [ref=e101]: Monthly stipend to support our remote work model
+              - listitem [ref=e102]: Annual “development dollars” to support our people growth and development
+              - listitem [ref=e103]: Through Flex First, the freedom to live and work wherever you and your family thrive
+            - paragraph [ref=e104]
+            - paragraph [ref=e105]
+          - generic [ref=e106]:
+            - heading "About Marqeta" [level=4] [ref=e107]:
+              - strong [ref=e108]: About Marqeta
+            - paragraph [ref=e109]: Marqeta is on a mission to change the way money moves. We’re one of the earliest enablers of embedded finance, a market opportunity sized up in the trillions. Our card issuing platform provides unprecedented flexibility and control for companies to issue cards, authorize transactions, and manage payment operations in real time. Marqeta is powering the most well known brands in the new economy (Block, Cash App, Affirm, Instacart, Doordash, Uber, Walmart, etc). You don’t need to be a Payments expert to join the Marqeta Team, let us help you with that. This is the opportunity of a lifetime to work with innovators around the world and unlock equitable financial access for all.
+            - separator [ref=e110]
+            - heading "Marqeta’s Values" [level=4] [ref=e111]:
+              - strong [ref=e112]: Marqeta’s Values
+            - paragraph [ref=e113]:
+              - strong [ref=e114]: "– Solve for the Customer:"
+              - text: With a deep understanding of our customers' business and empathy for their needs, we deliver products and services that drive their success. Earning and keeping their trust guides everything we do.
+            - paragraph [ref=e115]:
+              - strong [ref=e116]: "– Do What's Right:"
+              - text: Knowing businesses and livelihoods depend on us, we pursue solutions that disrupt responsibly and deliver high-quality results that our customers count on. We own our work from start to finish.
+            - paragraph [ref=e117]:
+              - strong [ref=e118]: "– Simplify and Innovate:"
+              - text: We approach challenges with curiosity and take smart risks. Innovation comes from finding better, simpler ways to achieve extraordinary outcomes.
+            - paragraph [ref=e119]:
+              - strong [ref=e120]: "– Win as a Team:"
+              - text: We succeed together by embracing diverse perspectives and pushing each other to raise the bar. We lead with humility and set aside hierarchy to work as a team.
+            - paragraph [ref=e121]:
+              - strong [ref=e122]: "– Make it Count:"
+              - text: We drive forward with focus and agility. With a sense of urgency and purpose, we get the job done, and done right.
+            - separator [ref=e123]
+            - paragraph [ref=e124]:
+              - strong [ref=e125]: Equal Employment Opportunity, Accommodations and Privacy
+            - paragraph [ref=e126]: Marqeta is an equal opportunity employer committed to an inclusive workplace that fosters belonging. We do not discriminate based on race, color, religion, sex (including pregnancy, lactation, childbirth, or related medical conditions), veteran status or uniformed service member status, age, national origin or ancestry, citizenship or immigration status, physical or mental disability, gender identity, gender expression, sexual orientation, genetic information (including testing or characteristics) or any other characteristic protected by applicable law. We also consider qualified applicants with criminal histories, consistent with legal requirements.
+            - paragraph [ref=e127]:
+              - text: Marqeta endeavors to make reasonable accommodations for applicants with disabilities. If you are an individual with a disability and require a reasonable accommodation to submit this application, complete any pre-employment testing, or otherwise participate in the employee selection process, please submit
+              - link "this form" [ref=e128] [cursor=pointer]:
+                - /url: https://forms.gle/Nx79JaH22WR94nBh7
+              - text: with your specific accommodation request.
+            - paragraph [ref=e129]:
+              - text: Personal data that is provided as part of the application and recruitment process is processed in accordance with the
+              - link "Applicant Privacy Notice" [ref=e130] [cursor=pointer]:
+                - /url: https://www.marqeta.com/company/applicant
+              - text: . Additional information for California residents can be found
+              - link "here" [ref=e131] [cursor=pointer]:
+                - /url: https://www.marqeta.com/applicant#1lOHLMWCqwzsMvVd1FY1XD
+              - text: .
+            - heading [level=6] [ref=e132]
+        - generic [ref=e133]:
+          - img [ref=e134]
+          - generic [ref=e136]:
+            - paragraph [ref=e137]: Create a Job Alert
+            - paragraph [ref=e138]: Interested in building your career at Marqeta? Get future opportunities sent straight to your email.
+            - button "Create alert" [ref=e139] [cursor=pointer]
+      - separator [ref=e140]
+      - generic [ref=e141]:
+        - generic [ref=e143]:
+          - heading "Apply for this job" [level=2] [ref=e145]
+          - generic [ref=e146]:
+            - paragraph [ref=e148]: "*"
+            - paragraph [ref=e149]: indicates a required field
+        - generic [ref=e150]:
+          - generic [ref=e151]:
+            - generic [ref=e154]:
+              - generic [ref=e155]: First Name*
+              - textbox "First Name" [ref=e156]
+            - generic [ref=e159]:
+              - generic [ref=e160]: Last Name*
+              - textbox "Last Name" [ref=e161]
+            - generic [ref=e164]:
+              - generic [ref=e165]: Email*
+              - textbox "Email" [ref=e166]
+            - group "Phone" [ref=e168]:
+              - generic [ref=e169]: Phone
+              - generic [ref=e172]:
+                - generic [ref=e173]: Country*
+                - generic [ref=e174]:
+                  - log [ref=e176]
+                  - generic [ref=e178]:
+                    - combobox "Country" [ref=e181]
+                    - button "Toggle flyout" [ref=e183] [cursor=pointer]:
+                      - img [ref=e184]
+                  - textbox
+              - generic [ref=e188]:
+                - generic [ref=e189]: Phone*
+                - textbox "Phone" [ref=e190]
+            - generic [ref=e191]:
+              - generic [ref=e193]:
+                - generic [ref=e194]: Location (City)
+                - generic [ref=e195]:
+                  - log [ref=e197]
+                  - combobox "Location (City)" [ref=e202]
+              - button "Locate me" [ref=e203] [cursor=pointer]
+            - group "Resume/CV*" [ref=e205]:
+              - generic [ref=e206]: Resume/CV*
+              - generic [ref=e208]:
+                - generic [ref=e210]:
+                  - button "Attach" [ref=e211] [cursor=pointer]
+                  - generic [ref=e212]: Attach
+                  - button "Attach" [ref=e213]
+                - button "Dropbox" [ref=e215] [cursor=pointer]
+                - button "Google Drive" [ref=e217] [cursor=pointer]
+                - generic [ref=e219]:
+                  - button "Enter manually" [ref=e220] [cursor=pointer]
+                  - generic [ref=e221]: Enter manually
+                - paragraph [ref=e222]: "Accepted file types: pdf, doc, docx, txt, rtf"
+            - group "Cover Letter" [ref=e224]:
+              - generic [ref=e225]: Cover Letter
+              - generic [ref=e227]:
+                - generic [ref=e229]:
+                  - button "Attach" [ref=e230] [cursor=pointer]
+                  - generic [ref=e231]: Attach
+                  - button "Attach" [ref=e232]
+                - button "Dropbox" [ref=e234] [cursor=pointer]
+                - button "Google Drive" [ref=e236] [cursor=pointer]
+                - generic [ref=e238]:
+                  - button "Enter manually" [ref=e239] [cursor=pointer]
+                  - generic [ref=e240]: Enter manually
+                - paragraph [ref=e241]: "Accepted file types: pdf, doc, docx, txt, rtf"
+          - generic [ref=e242]:
+            - separator [ref=e243]
+            - generic [ref=e246]:
+              - generic [ref=e247]: LinkedIn Profile
+              - textbox "LinkedIn Profile" [ref=e248]
+            - generic [ref=e251]:
+              - generic [ref=e252]: Website
+              - textbox "Website" [ref=e253]
+            - generic [ref=e256]:
+              - generic [ref=e257]: Are you legally authorized to work in the United States?*
+              - generic [ref=e258]:
+                - log [ref=e260]
+                - generic [ref=e262]:
+                  - generic [ref=e263]:
+                    - generic [ref=e264]: Select...
+                    - combobox "Are you legally authorized to work in the United States?" [ref=e266]
+                  - button "Toggle flyout" [ref=e268] [cursor=pointer]:
+                    - img [ref=e269]
+                - textbox
+            - generic [ref=e273]:
+              - generic [ref=e274]: Are you in Pacific Time Zone and comfortable with being on an on-call rotation schedule?*
+              - generic [ref=e275]:
+                - log [ref=e277]
+                - generic [ref=e279]:
+                  - generic [ref=e280]:
+                    - generic [ref=e281]: Select...
+                    - combobox "Are you in Pacific Time Zone and comfortable with being on an on-call rotation schedule?" [ref=e283]
+                  - button "Toggle flyout" [ref=e285] [cursor=pointer]:
+                    - img [ref=e286]
+                - textbox
+            - generic [ref=e290]:
+              - generic [ref=e291]: Will you now or in the future require sponsorship to legally work in the United States? *
+              - generic [ref=e292]:
+                - log [ref=e294]
+                - generic [ref=e296]:
+                  - generic [ref=e297]:
+                    - generic [ref=e298]: Select...
+                    - combobox "Will you now or in the future require sponsorship to legally work in the United States?" [ref=e300]
+                  - button "Toggle flyout" [ref=e302] [cursor=pointer]:
+                    - img [ref=e303]
+                - textbox
+            - generic [ref=e307]:
+              - generic [ref=e308]: How did you hear about this job?*
+              - textbox "How did you hear about this job?" [ref=e309]
+            - generic [ref=e312]:
+              - generic [ref=e313]: Are you now or have you been employed by Marqeta in the past?*
+              - generic [ref=e314]:
+                - log [ref=e316]
+                - generic [ref=e318]:
+                  - generic [ref=e319]:
+                    - generic [ref=e320]: Select...
+                    - combobox "Are you now or have you been employed by Marqeta in the past?" [ref=e322]
+                  - button "Toggle flyout" [ref=e324] [cursor=pointer]:
+                    - img [ref=e325]
+                - textbox
+            - generic [ref=e327]:
+              - generic [ref=e329]:
+                - generic [ref=e330]: Current Company*
+                - textbox "Current Company" [ref=e331]
+              - paragraph [ref=e334]:
+                - emphasis [ref=e335]: if applicable
+            - generic [ref=e336]:
+              - generic [ref=e338]:
+                - generic [ref=e339]: Current Position/Title*
+                - textbox "Current Position/Title" [ref=e340]
+              - paragraph [ref=e343]:
+                - emphasis [ref=e344]: if applicable
+          - separator [ref=e345]
+          - generic [ref=e346]:
+            - heading "MQ - EEOC Voluntary Questions" [level=3] [ref=e347]
+            - generic [ref=e349]:
+              - paragraph [ref=e350]:
+                - text: At Marqeta, we strive to live our value of “Win as a Team,” where we seek various opinions and experiences as we build opportunities around equity, inclusion, and belonging. We ask candidates to respond to the below self-identification survey. Completion of the form is
+                - strong [ref=e351]: entirely voluntary.
+                - text: Whatever your decision, it will not be considered in the hiring process or thereafter. As set forth in Marqeta’s Equal Employment Opportunity policy, we do not discriminate on the basis of any protected group status under any applicable law.
+              - paragraph [ref=e352]:
+                - text: Any information that you do provide will be anonymized and reviewed, strictly in aggregate, to find ways to improve our recruiting processes. To learn more about our job applicant privacy policy,
+                - link "please visit our website" [ref=e353] [cursor=pointer]:
+                  - /url: https://www.marqeta.com/company/applicant
+                - text: .
+              - paragraph [ref=e354]: "We’re also providing additional information and resources as you complete the form:"
+              - list [ref=e355]:
+                - listitem [level=1] [ref=e356]:
+                  - link "Race & Ethnicity Definitions" [ref=e357] [cursor=pointer]:
+                    - /url: https://boards.cdn.greenhouse.io/docs/RaceEthnicityDefinitions.pdf
+                    - strong [ref=e358]: Race & Ethnicity Definitions
+                - listitem [level=1] [ref=e359]:
+                  - strong [ref=e360]: "Veteran Status:"
+                  - text: If you believe you belong to any of the categories of protected veterans listed below, please indicate by making the appropriate selection.
+                - list [ref=e361]:
+                  - listitem [level=2] [ref=e362]: A "disabled veteran"
+                  - listitem [level=2] [ref=e363]: A "recently separated veteran"
+                  - listitem [level=2] [ref=e364]: An "active duty wartime or campaign badge veteran"
+                  - listitem [level=2] [ref=e365]: An "Armed forces service medal veteran"
+                - listitem [level=1] [ref=e366]:
+                  - strong [ref=e367]: "Disability Status:"
+                  - text: You are considered to have a disability if you have a physical or mental impairment or medical condition that substantially limits a major life activity, or if you have a history or record of such an impairment or medical condition.
+              - paragraph [ref=e368]: "PUBLIC BURDEN STATEMENT: According to the Paperwork Reduction Act of 1995 no persons are required to respond to a collection of information unless such collection displays a valid OMB control number. This survey should take about 5 minutes to complete."
+            - generic [ref=e370]:
+              - generic [ref=e371]: I consider my gender identity to be
+              - generic [ref=e372]:
+                - log [ref=e374]
+                - generic [ref=e376]:
+                  - generic [ref=e377]:
+                    - generic [ref=e378]: Select...
+                    - combobox "I consider my gender identity to be" [ref=e380]
+                  - button "Toggle flyout" [ref=e382] [cursor=pointer]:
+                    - img [ref=e383]
+            - generic [ref=e386]:
+              - generic [ref=e387]: I consider my gender as
+              - generic [ref=e388]:
+                - log [ref=e390]
+                - generic [ref=e392]:
+                  - generic [ref=e393]:
+                    - generic [ref=e394]: Select...
+                    - combobox "I consider my gender as" [ref=e396]
+                  - button "Toggle flyout" [ref=e398] [cursor=pointer]:
+                    - img [ref=e399]
+            - generic [ref=e402]:
+              - generic [ref=e403]: I consider myself to be Hispanic or Latino
+              - generic [ref=e404]:
+                - log [ref=e406]
+                - generic [ref=e408]:
+                  - generic [ref=e409]:
+                    - generic [ref=e410]: Select...
+                    - combobox "I consider myself to be Hispanic or Latino" [ref=e412]
+                  - button "Toggle flyout" [ref=e414] [cursor=pointer]:
+                    - img [ref=e415]
+            - generic [ref=e418]:
+              - generic [ref=e419]: If you do not consider yourself Hispanic or Latino, please select the race/ethnicity you most identify with
+              - generic [ref=e420]:
+                - log [ref=e422]
+                - generic [ref=e424]:
+                  - generic [ref=e425]:
+                    - generic [ref=e426]: Select...
+                    - combobox "If you do not consider yourself Hispanic or Latino, please select the race/ethnicity you most identify with" [ref=e428]
+                  - button "Toggle flyout" [ref=e430] [cursor=pointer]:
+                    - img [ref=e431]
+            - generic [ref=e434]:
+              - generic [ref=e435]: I consider myself to be as a member of the Lesbian, Gay, Bisexual, and/or Transgender (LGBT+) community
+              - generic [ref=e436]:
+                - log [ref=e438]
+                - generic [ref=e440]:
+                  - generic [ref=e441]:
+                    - generic [ref=e442]: Select...
+                    - combobox "I consider myself to be as a member of the Lesbian, Gay, Bisexual, and/or Transgender (LGBT+) community" [ref=e444]
+                  - button "Toggle flyout" [ref=e446] [cursor=pointer]:
+                    - img [ref=e447]
+            - generic [ref=e450]:
+              - generic [ref=e451]: Veteran Status
+              - generic [ref=e452]:
+                - log [ref=e454]
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - generic [ref=e458]: Select...
+                    - combobox "Veteran Status" [ref=e460]
+                  - button "Toggle flyout" [ref=e462] [cursor=pointer]:
+                    - img [ref=e463]
+            - generic [ref=e466]:
+              - generic [ref=e467]: Disability Status
+              - generic [ref=e468]:
+                - log [ref=e470]
+                - generic [ref=e472]:
+                  - generic [ref=e473]:
+                    - generic [ref=e474]: Select...
+                    - combobox "Disability Status" [ref=e476]
+                  - button "Toggle flyout" [ref=e478] [cursor=pointer]:
+                    - img [ref=e479]
+          - button "Submit application" [ref=e482] [cursor=pointer]
+  - contentinfo [ref=e483]:
+    - generic [ref=e484]:
+      - paragraph [ref=e485]: Powered by
+      - link "Greenhouse logo" [ref=e486] [cursor=pointer]:
+        - /url: https://www.greenhouse.com
+        - img "Greenhouse logo" [ref=e487]
